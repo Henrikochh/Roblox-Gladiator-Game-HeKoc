@@ -31,3 +31,7 @@ Ich habe einen Bug behoben, bei dem der Block nicht mehr aufgehört hat, nachdem
 ## 4.5.2023
 
 Ich hatte schon seit dem beginn vom Programmieren der M1 Combo einen Bug nämlich, dass der Charakter welche schlägt sich bei der Combo nicht mit nach vorne bewegt. Dies habe ich nun behoben. Das Problem war ich beim Schlagen immer eine neue Hitbox erstellt habe und vergessen habe die alte zu löschen. So hatte ich am Ende 5 Hitboxen, die das Bewegen schwer gemacht haben. Ich habe allgemein das Combat System getestet, um das Spielgefühl zu verbessern.
+
+## 5.5.2023
+
+Heute habe ich mich daran gemacht, dem Spiel noch ein paar FX Effekte hinzuzufügen. Ich habe z. B. einen Effekt eingebaut, der erscheint, wenn man einen Gegner schlägt. Auch wenn man Blockt erscheint ein kleiner Effekt, sodass man sieht, dass der Schlag vom Gegner abgewehrt wurde.
